@@ -1,0 +1,6 @@
+{
+  "name": "MeridianBlue Fleet Intelligence Workbench",
+  "description": "Context-aware maritime fleet disruption & voyage recovery intelligence workbench with hybrid retrieval, policy governance, offline continuity, and 15 golden scenario evaluation lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
